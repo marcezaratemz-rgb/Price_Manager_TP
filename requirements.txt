@@ -1,0 +1,3 @@
+# Price Manager - Star Computación
+# Todas son parte de la librería estándar de Python (no requieren instalación adicional)
+# abc, csv, datetime, os, pickle, sys, typing
